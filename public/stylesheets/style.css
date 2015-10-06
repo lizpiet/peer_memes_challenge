@@ -1,0 +1,72 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+
+h1{
+  font-size: 125px;
+  font-family: impact;
+  text-align: center;
+  padding-top: 45px;
+  margin: 24px 0 10px 0;
+}
+
+h2{
+  font-family: impact;
+  font-size: 75px;
+  font-style: italic;
+  text-align: center;
+  letterspacing: 1px;
+  margin: 14px 0 -119px;
+}
+h3{
+  margin:-65px 0;
+  text-align: center;
+  font-size: 35px;
+  font-family: impact;
+  -webkit-text-stroke: 1px white;
+  letterspacing:1px;
+  vertical-align: text-bottom;
+}
+
+input {
+  margin: 45px 0 30px 0;
+  -webkit-text-stroke: 0;
+  font-size: 20px;
+  padding: 7px 8px;
+  width: 530px;
+  border: none;
+  text-align: center;
+  background-color: #94B8B8;
+  color: white;
+  letter-spacing: 1px;
+
+}
+img{
+  display: block;
+  margin: 129px auto 10px;
+  width:590px;
+
+}
+.quotes {
+}
+
+input:focus {
+  outline-color: white;
+}
+
+footer{
+  font-family: georgia;
+  font-style: italic;
+  font-weight: bold;
+  color:#94B8B8;
+  text-align: center;
+  font-size: 25px;
+  padding: 29px 0 50px;
+  margin-top: 100px;
+}

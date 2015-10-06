@@ -1,0 +1,10 @@
+doctype html
+html(ng-app='MemeApp')
+  head
+    title= title
+    link(rel='stylesheet', href='/stylesheets/style.css')
+    script(src="/javascripts/angular.min.js")
+    script(src="/javascripts/users.js")
+  body(ng-controller='MainController')
+
+    block content

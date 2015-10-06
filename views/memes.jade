@@ -1,0 +1,18 @@
+extends layout
+
+block content
+    h1 Memes
+    h2 Welcome to Our Memes Page!!
+    body
+        #images
+            for img in memeImg
+                img(src=img.meme)
+                h3(class=img.id)="{{" + img.model + "}}"
+                    .quotes
+                        input(
+                            type='text'
+                            name='message'
+                            ng-model=img.model
+                            )
+        footer brought to you by laura and liz of epsilon, 2015
+

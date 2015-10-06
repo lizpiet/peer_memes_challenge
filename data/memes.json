@@ -1,0 +1,33 @@
+[
+{
+"meme": "/images/allthe.jpg",
+"id": "0",
+  "message":"Learn all the Jade!!!!!!",
+  "model": "allthethings"
+},
+{
+"meme": "/images/keanu.jpg",
+"id": "1",
+  "message":"I ordered salami...",
+  "model": "keanu"
+},
+{
+"meme": "/images/leo.jpg",
+"id": "2",
+  "message":"I'm walking on SUNSHINE!!",
+  "model": "leo"
+},
+{
+"meme": "/images/Neil.jpg",
+"id": "3",
+  "message":"Watch out, we've got Nick over here.",
+  "model": "neil"
+},
+{
+"meme": "/images/spidermanbed.jpg",
+"id": "4",
+  "message":"This class gave me cancer",
+  "model": "spiderman"
+}
+]
+
